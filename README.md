@@ -1,5 +1,5 @@
 ## 💻 Projeto
-Feedback Widget, aplicativo para o envio de Feedbacks, disponível para versão web e mobile, sendo que a versão web pode ser implementada em outras aplicações. Tenha um sistema de feedback pronto para ser consumido em suas aplicações.
+Feedback Widget, aplicativo para o envio de Feedbacks, disponível para versão [web](https://nlw-return-9o6myx2b0-wallacemartinsti.vercel.app/) e mobile, sendo que a versão [web](https://nlw-return-9o6myx2b0-wallacemartinsti.vercel.app/) pode ser implementada em outras aplicações. Tenha um sistema de feedback pronto para ser consumido em suas aplicações.
 
 ## ✨ Tecnologias
 
