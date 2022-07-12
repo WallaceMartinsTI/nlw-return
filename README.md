@@ -22,7 +22,7 @@ Feedback Widget, aplicativo para o envio de Feedbacks, disponível para versão 
 -   [ ] Expo Font
 -   [ ] Axios
 
-## :hammer_and_wrench: Features 
+## 🛠️ Features 
   
 -   [ ] Envio de Feedbacks
 -   [ ] Feedbacks personalizados
